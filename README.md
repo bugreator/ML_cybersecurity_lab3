@@ -3,27 +3,22 @@ Lab3 for SEL_TOPIC Machine Learning for Cyber Security
 
 '''
 
-├── data 
-
-    └── cl
-    
-        └── valid.h5   
-        └── test.h5  
-        
-    └── bd
-    
-        └── bd_valid.h5    
-        └── bd_test.h5   
-└── models
-
-    └── bd_net.h5
-    └── bd_weights.h5
-    └── prune_net_ratio2.h5
-    └── prune_net_ratio4.h5
-    └── prune_net_ratio10.h5
-└── architecture.py
-└── eval.py      
-└── ml_lab3.ipynb    
+    ├── data 
+        └── cl
+            └── valid.h5   
+            └── test.h5  
+        └── bd
+            └── bd_valid.h5    
+            └── bd_test.h5   
+    └── models
+        └── bd_net.h5
+        └── bd_weights.h5
+        └── prune_net_ratio2.h5
+        └── prune_net_ratio4.h5
+        └── prune_net_ratio10.h5
+    └── architecture.py
+    └── eval.py      
+    └── ml_lab3.ipynb    
 '''
 
 
