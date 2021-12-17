@@ -33,3 +33,7 @@ Data used in the lab can be downloaded according to the instructioins from the .
 ## 2. Weight
 
 You can run the code with the weight w.r.t different rate X={2%, 4%, 10%} from Weight file.
+
+## 3. Run the code
+
+To run the code, please go to "ml_lab3.ipynb".
