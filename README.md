@@ -16,12 +16,9 @@
 
 
 >>prune_net_ratio2.h5
-
 >>prune_net_ratio4.h5
-
-
 >>prune_net_ratio10.h5
-   
+
 >architecture.py
 
 >eval.py   
