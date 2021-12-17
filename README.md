@@ -1,5 +1,5 @@
 # ML_cybersecurity_lab3
-
+'''bash
 ├── data 
     └── cl
         └── valid.h5        # this is clean validation data used to design the defense
@@ -18,7 +18,7 @@
 ├── eval.py                 # this is the original evaluation script
 ├── main.ipynb              # this is colab notebook for lab3
 └── myEval.py               # this is my evaluation script
-
+'''
 
 Lab3 for SEL_TOPIC Machine Learning for Cyber Security
 
