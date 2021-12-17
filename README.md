@@ -19,7 +19,7 @@
 
 >eval.py   
           
->main.ipynb    
+>ml_lab3.ipynb    
 
 Lab3 for SEL_TOPIC Machine Learning for Cyber Security
 
