@@ -1,7 +1,7 @@
 # ML_cybersecurity_lab3
 Lab3 for SEL_TOPIC Machine Learning for Cyber Security
 
-'''
+
 
     ├── data 
         └── cl
@@ -13,13 +13,14 @@ Lab3 for SEL_TOPIC Machine Learning for Cyber Security
     └── models
         └── bd_net.h5
         └── bd_weights.h5
+    └── weights
         └── prune_net_ratio2.h5
         └── prune_net_ratio4.h5
         └── prune_net_ratio10.h5
     └── architecture.py
     └── eval.py      
     └── ml_lab3.ipynb    
-'''
+
 
 
 ## 1. Dataset
