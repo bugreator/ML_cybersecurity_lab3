@@ -10,10 +10,17 @@
  
 >models
 >>bd_net.h5
+
+
 >>bd_weights.h5
->>repaired_2.h5      
->>repaired_4.h5     
->>repaired_10.h5 
+
+
+>>prune_net_ratio2.h5
+
+>>prune_net_ratio4.h5
+
+
+>>prune_net_ratio10.h5
    
 >architecture.py
 
