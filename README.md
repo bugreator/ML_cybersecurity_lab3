@@ -3,14 +3,19 @@ Lab3 for SEL_TOPIC Machine Learning for Cyber Security
 
 '''
 
-└── data 
+├── data 
+
     └── cl
+    
         └── valid.h5   
         └── test.h5  
+        
     └── bd
+    
         └── bd_valid.h5    
         └── bd_test.h5   
 └── models
+
     └── bd_net.h5
     └── bd_weights.h5
     └── prune_net_ratio2.h5
