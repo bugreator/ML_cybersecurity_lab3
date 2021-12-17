@@ -10,11 +10,7 @@
  
 >models
 >>bd_net.h5
-
-
 >>bd_weights.h5
-
-
 >>prune_net_ratio2.h5
 >>prune_net_ratio4.h5
 >>prune_net_ratio10.h5
