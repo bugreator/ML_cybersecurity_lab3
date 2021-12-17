@@ -21,7 +21,8 @@ Directory
         └── prune_net_ratio30.h5
     └── architecture.py
     └── eval.py      
-    └── ml_lab3.ipynb    
+    └── ml_lab3.ipynb  
+    └── ml_lab3.pdf
 
 
 
