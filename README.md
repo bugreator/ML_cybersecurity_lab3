@@ -1,6 +1,6 @@
 # ML_cybersecurity_lab3
 Lab3 for SEL_TOPIC Machine Learning for Cyber Security
-'
+
 >data 
 >>cl
 >>>valid.h5   
@@ -26,11 +26,11 @@ Lab3 for SEL_TOPIC Machine Learning for Cyber Security
 >eval.py   
           
 >ml_lab3.ipynb    
-'
-1. Dataset
-=
+
+#1. Dataset
+
 Data used in the lab can be downloaded according to the instructioins from the ./Data/data.txt.
 
-2. Weight
+#2. Weight
 =
 You can run the code with the weight w.r.t different rate X={2%, 4%, 10%} from Weight file.
